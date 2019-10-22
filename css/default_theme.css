@@ -1,0 +1,39 @@
+/* Start Default Theme */
+
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus,
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus,
+.dropdown-menu .divider,
+.carousel-indicators .active,
+.option-box .gear-check {
+    background-color: #47941d;
+}
+
+.navbar-inverse .navbar-brand span,
+.about h1 span,
+.tistimonials span,
+.footer h3,
+.footer .copyright span {
+    color: #47941d;
+}
+
+.option-box .color-option,
+.tistimonials .carousel-indicators li.active {
+    border: 3px solid #47941d;
+}
+
+.dropdown-menu {
+    border-top: 3px solid #47941d;
+}
+
+.carousel-inner >
+ .item > img {
+  border-bottom: 5px solid #47941d;
+}
+
+.our-clients img {
+    border-bottom: 5px solid #47941d;
+}
+/* End Default Theme */
